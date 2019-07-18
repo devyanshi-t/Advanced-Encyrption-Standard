@@ -13,7 +13,7 @@ This C program implements the AES algorithm and calculates the time taken for en
 
 # output
 
-p align="center">
+<p align="center">
 <img src="./3.png">
 
 <br />
